@@ -1,16 +1,70 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**DavidEvora/DavidEvora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm David Evora
 
-Here are some ideas to get you started:
+💻 Junior Full Stack Developer | 🎮 Game Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Focused on building real-world projects & scalable apps
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
+
+### 🧠 About Me
+
+👨‍💻 23 years old developer from Spain
+
+⚡ Passionate about **web development & game systems**
+
+🧩 Experience using **APIs, frontends & Minecraft plugins**
+
+🎯 Currently looking for **junior developer opportunities**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
+
+### 🛠️ Tech Stack
+
+#### 🌐 Frontend
+
+HTML • CSS • JavaScript • React • TypeScript
+
+#### ⚙️ Backend
+
+Node.js • REST APIs • Async/Await
+
+#### 🗄️ Tools & Others
+
+Git • GitHub • VS Code • Postman
+
+#### 🎮 Game Dev
+
+Minecraft Plugin Development (Java)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
+
+### 🚀 Featured Projects
+
+🔹 **Task Manager App**
+CRUD application using API
+Async/Await + Fetch
+
+🔹 **Contacts API Project**
+User & contacts management system
+REST API integration
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidEvora&theme=dark&hide_border=true"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF4800&height=2" />
+
+### 📫 Contact Me
+
+📧 Email: [evoradavid17@gmail.com](mailto:evoradavid17@gmail.com)
+💼 LinkedIn: https://www.linkedin.com/in/david-evora-9867672b8
+
+---
+
+🔥 *Open to work — let’s build something great together*
+
+</div>
