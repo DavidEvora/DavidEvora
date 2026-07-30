@@ -2,8 +2,6 @@
   <img src="banner.png" alt="David Evora Banner" width="100%" />
 </p>
 
-<div align="center">
-
 # 👋 Hi, I'm David Evora
 
 Full Stack Developer
@@ -89,9 +87,7 @@ React • Next.js • TypeScript • Flask • SQLAlchemy • SQLite • Tailwin
 
 ### GitHub Stats
 
-<p align="center">
 <img src="https://streak-stats.demolab.com?user=DavidEvora&theme=tokyonight&hide_border=true"/>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" />
 
