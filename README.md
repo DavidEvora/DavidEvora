@@ -20,8 +20,6 @@ Passionate about Full Stack Development.
 
 Recently completed the Full Stack Bootcamp at 4Geeks Academy.
 
-Currently learning **Docker, AWS and PostgreSQL.**
-
 Looking for my first opportunity as a Full Stack Developer.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" />
@@ -85,9 +83,13 @@ React • Next.js • TypeScript • Flask • SQLAlchemy • SQLite • Tailwin
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" />
 
-### GitHub Stats
+### Currently Learning
 
-<img src="https://streak-stats.demolab.com?user=DavidEvora&theme=tokyonight&hide_border=true"/>
+🐳 Docker
+
+☁️ AWS
+
+🐘 PostgreSQL
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" />
 
