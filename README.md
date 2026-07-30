@@ -77,9 +77,9 @@ A full-stack fitness management platform for trainers and clients.
 
 React • Next.js • TypeScript • Flask • SQLAlchemy • SQLite • Tailwind CSS • Render • Vercel
 
-🌐 **Live Demo:** https://gym-tracker-pro-beta.vercel.app
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://gym-tracker-pro-beta.vercel.app)
 
-📂 **Repository:** https://github.com/GymTracker-4Geeks/GymTracker-Pro-WEBAPP
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/GymTracker-4Geeks/GymTracker-Pro-WEBAPP)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2" />
 
